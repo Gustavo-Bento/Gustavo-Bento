@@ -10,4 +10,4 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
 >## JavaScript ☕️
 >- >**Node JS** ⚛️ / **React JS** ⚛️ / **React Native** ⚛️
 >## SQL
->- >**SQLite** 🏆 / **MySQL** 🐘
+>- >**SQLite** 🏆 / **MySQL** 🐘 / **PostgreSQL** 🐘
