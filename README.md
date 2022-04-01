@@ -6,10 +6,13 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
 >I have some construction skills that can make it possible to increase the productivity of an application in several projects.  Among my projects, I have a simple repository applied to a case study of service order openings. Feel free to download the repository for your need 🆓
 
 >## Java 
->- >**Java Spring Rest** 🍃/  **Java EE** ☕/ **Java SE**☕
+>- >**Java Spring Rest** 🍃/  **Java EE** ☕/ **Java SE** ☕
+
+>## PHP
+>- >**Laravel** 🐘/  **Lumen RestFull** 💡/ **PHP 7**🐘
 
 >## JavaScript 
 >- >**Node JS** ⚛️ / **React JS** ⚛️ / **React Native** ⚛️
 
 >## SQL
->- >**SQLite** 🏆 / **MySQL** 🐘 / **PostgreSQL** 🐘
+>- >**SQLite** 🏆 / **MySQL** 🐘 / **PostgreSQL** 🐘 
