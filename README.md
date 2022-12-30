@@ -20,10 +20,10 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
         <td width="65%"> 
             <table width="100%">
                 <tr>    
-                    <td>
+                    <td width="40%">
                         <h5 align="center">Principal Programming Languages:</h3>
                     </td>
-                    <td>
+                    <td width="60%">
                         <p align="center"> 
                             <a href="https://www.java.com" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
@@ -41,10 +41,10 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
                     </td>
                 </tr>
                 <tr>
-                    <td>
+                    <td width="40%">
                         <h5 align="center">Principal Backend Development:</h3>
                     </td>
-                    <td>
+                    <td width="60%">
                         <p align="center">
                             <a href="https://spring.io/" target="_blank" rel="noreferrer">
                                 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/>
@@ -53,10 +53,10 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
                     </td>  
                 </tr>
                 <tr>
-                    <td>
+                    <td width="40%">
                         <h5 align="center">Principal Frontend Development:</h3>
                     </td>
-                    <td>
+                    <td width="60%">
                         <p align="center">
                             <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer">
                                 <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="20" height="20"/> 
@@ -83,10 +83,10 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
                     </td>
                 </tr>
                 <tr>
-                    <td>
+                    <td width="40%">
                         <h5 align="center">Mobile App Development:</h3>
                     </td>
-                    <td>
+                    <td width="60%">
                         <p align="center">
                             <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer">
                                 <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="20" height="20"/>
@@ -100,9 +100,9 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
                     </td>
                 </tr>
                 <tr>
-                    <td>
+                   <td width="40%">
                         <h5 align="center">Database:</h3>
-                    </td>
+                    <td width="60%">
                     <td>
                         <p align="center">
                             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -115,9 +115,9 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
                     </td>
                 </tr>
                 <tr>
-                    <td>
+                    <td width="40%">
                         <h5 align="center">Software</h3>
-                    </td>
+                    <td width="60%">
                     <td>
                         <p align="center">
                             <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
