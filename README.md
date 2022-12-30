@@ -103,7 +103,6 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
                    <td width="40%">
                         <h5 align="center">Database:</h3>
                     <td width="60%">
-                    <td>
                         <p align="center">
                             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
@@ -118,7 +117,6 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
                     <td width="40%">
                         <h5 align="center">Software</h3>
                     <td width="60%">
-                    <td>
                         <p align="center">
                             <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
                                 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="20" height="20"/>
