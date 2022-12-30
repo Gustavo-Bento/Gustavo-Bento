@@ -4,7 +4,7 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
 ># Skills 
 >I have some construction skills that can make it possible to increase the productivity of an application in several projects.  Among my projects, I have a simple repository applied to a case study of service order openings. Feel free to download the repository for your need 🆓
 
-<table>
+<table aling="center" width="100%">
     <tr>
         <td width="35%">    
             <h3 align="center">A passionate fullstack developer from Brazil</h3>      
@@ -142,7 +142,3 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Bento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <hr>
-
-<div>
-  ![Snake animation](https://github.com/gustavo-bento/gustavo-bento/blob/output/github-contribution-grid-snake.svg)
-</div>
