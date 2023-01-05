@@ -6,19 +6,23 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
 
 <table aling="center" width="100%">
     <tr>
-        <td width="35%">    
+        <td width="50%">    
             <h3 align="center">A passionate fullstack developer from Brazil</h3>      
             <p>- 💬 Ask me about **java, python, js or php**</p>
             <p>- 📫 How to reach me **gfmb94@gmail.com**</p>
             <hr>
+            
+        </td>
+        <td width="50%"> 
             <h3 align="left">Connect with me:</h3>
             <p align="justify">Click on my linkedin to get to know me a little more and about my skills in the area of ​​systems development programming:</p>
             <p align="center">
             <a href="https://linkedin.com/in/gfmb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gfmb" height="30" width="20" /></a>
             </p>
         </td>
-        <td width="65%"> 
-            <table width="100%">
+    </tr>
+</table>
+<table width="100%">
                 <tr>    
                     <td width="40%">
                         <h5 align="center">Principal Programming Languages:</h3>
@@ -131,9 +135,6 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
                     </td>
                 </tr>
             </table>
-        </td>
-    </tr>
-</table>
 <div>
 <a href="https://github.com/Gustavo-Bento">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Bento&layout=compact&langs_count=7&theme=dracula"/>
