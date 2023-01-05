@@ -4,16 +4,15 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
 ># Skills 
 >I have some construction skills that can make it possible to increase the productivity of an application in several projects.  Among my projects, I have a simple repository applied to a case study of service order openings. Feel free to download the repository for your need 🆓
 
-<table aling="center" width="100%">
-    <tr>
-        <td width="50%">    
+<table>
+    <tr width="100%">
+        <td>    
             <h3 align="center">A passionate fullstack developer from Brazil</h3>      
             <p>- 💬 Ask me about **java, python, js or php**</p>
             <p>- 📫 How to reach me **gfmb94@gmail.com**</p>
             <hr>
-            
         </td>
-        <td width="50%"> 
+        <td> 
             <h3 align="left">Connect with me:</h3>
             <p align="justify">Click on my linkedin to get to know me a little more and about my skills in the area of ​​systems development programming:</p>
             <p align="center">
@@ -22,8 +21,8 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
         </td>
     </tr>
 </table>
-<table width="100%">
-                <tr>    
+<table>
+                <tr width="100%">    
                     <td width="40%">
                         <h5 align="center">Principal Programming Languages:</h3>
                     </td>
