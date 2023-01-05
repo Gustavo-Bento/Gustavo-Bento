@@ -23,10 +23,10 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
 </table>
 <table style="width: 100% !important;margin: auto;">
                 <tr width="100%">    
-                    <td width="40%">
-                        <h5 align="center">Principal Programming Languages:</h3>
+                    <td>
+                        <h4 align="center">Principal Programming Languages:</h4>
                     </td>
-                    <td width="60%">
+                    <td>
                         <p align="center"> 
                             <a href="https://www.java.com" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -44,10 +44,10 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
                     </td>
                 </tr>
                 <tr>
-                    <td width="40%">
-                        <h5 align="center">Principal Backend Development:</h3>
+                    <td>
+                        <h4 align="center">Principal Backend Development:</h4>
                     </td>
-                    <td width="60%">
+                    <td>
                         <p align="center">
                             <a href="https://spring.io/" target="_blank" rel="noreferrer">
                                 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
@@ -56,10 +56,10 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
                     </td>  
                 </tr>
                 <tr>
-                    <td width="40%">
-                        <h5 align="center">Principal Frontend Development:</h3>
+                    <td>
+                        <h4 align="center">Principal Frontend Development:</h4>
                     </td>
-                    <td width="60%">
+                    <td>
                         <p align="center">
                             <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer">
                                 <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> 
@@ -86,10 +86,10 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
                     </td>
                 </tr>
                 <tr>
-                    <td width="40%">
-                        <h5 align="center">Mobile App Development:</h3>
+                    <td>
+                        <h4 align="center">Mobile App Development:</h4>
                     </td>
-                    <td width="60%">
+                    <td>
                         <p align="center">
                             <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer">
                                 <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/>
@@ -103,9 +103,9 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
                     </td>
                 </tr>
                 <tr>
-                   <td width="40%">
-                        <h5 align="center">Database:</h3>
-                    <td width="60%">
+                   <td>
+                        <h4 align="center">Database:</h4>
+                    <td>
                         <p align="center">
                             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -117,9 +117,9 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
                     </td>
                 </tr>
                 <tr>
-                    <td width="40%">
-                        <h5 align="center">Software</h3>
-                    <td width="60%">
+                    <td>
+                        <h4 align="center">Software</h4>
+                    <td>
                         <p align="center">
                             <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
                                 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
