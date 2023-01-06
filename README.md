@@ -19,8 +19,6 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
             </p>
         </td>
     </tr>
-</table>
-<table style="width: 100% !important;margin: auto;">
     <Tr>
         <th>
             <h3 align="center">Skills</h3>
