@@ -142,7 +142,7 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
     </tr>
 </table>
 <div>
-<a href="https://github.com/Gustavo-Bento">
+<a href="https://github.com/gustavo-bento">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bento&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-bento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
