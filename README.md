@@ -59,7 +59,7 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
                     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30"/>
                 </a>
                 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
+                    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="30" height="30"/>
                 </a>
                 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
@@ -115,7 +115,7 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
                     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/>
                 </a>
                 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="30" height="30"/>
+                    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="30" height="30"/>
                 </a>
                 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
                     <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="30" height="30"/>
