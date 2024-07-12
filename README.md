@@ -107,18 +107,12 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
     </tr>
     <tr>
         <td width="50%">
-            <h4 align="left">Software</h4>
+            <h4 align="left">Others</h4>
         </td>
         <td width="50%">
             <p align="left">
                 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
                     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/>
-                </a>
-                <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/>
-                </a>
-                <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-                    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/>
                 </a>
             </p>            
         </td>
