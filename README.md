@@ -114,6 +114,12 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
                 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
                     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/>
                 </a>
+                <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+                    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="30" height="30"/>
+                </a>
+                <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+                    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="30" height="30"/>
+                </a>
             </p>            
         </td>
     </tr>
