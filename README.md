@@ -138,3 +138,6 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
         </td>
     </tr>
 </table>
+### 💻 Estatísticas de trabalho de código aberto
+
+![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Bento&show_icons=true)
