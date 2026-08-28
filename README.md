@@ -1,125 +1,99 @@
-# Olá, eu sou Gustavo Bento! 👋
+<h1 align="center">Olá, eu sou o Gustavo Ferreira Magalhães Bento 👋</h1>
 
-### Desenvolvedor Full Stack | Java | Spring Boot | React
+<h3 align="center">Desenvolvedor Full Stack | Java | Spring Boot | React</h3>
 
-Desenvolvedor Full Stack com foco em **Java, Spring Boot e React**, atuando no desenvolvimento de APIs REST, integração de serviços, persistência de dados e aplicações web.
+<p align="center">
+  Instrutor de tecnologia apaixonado por programação, sempre resolvendo paradigmas e buscando inovar nas formas de desenvolvimento.
+</p>
 
-Tenho experiência prática com o ecossistema **Spring**, bancos de dados relacionais, arquitetura de software, Docker e desenvolvimento frontend. Também exploro **Spring AI** e integração de aplicações com recursos de Inteligência Artificial.
-
-🎓 Engenharia da Computação  
-🎓 Pós-graduação em Engenharia de Software  
-🎓 Análise de Sistemas de Computação  
-
----
-
-## 🚀 Tecnologias
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data](https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Ferramentas e DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gfmb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gfmb94@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📌 Projetos em destaque
+### 🚀 Sobre mim
 
-### 💰 Budgeting
-
-**Java | Spring Boot | Spring AI | JPA | MySQL | Docker | Gradle**
-
-API de gestão financeira com integração de **Inteligência Artificial**, persistência de dados e arquitetura organizada em camadas.
-
-🔗 [Ver projeto](https://github.com/Gustavo-Bento/budgeting)
+- 💻 Desenvolvedor Full Stack com foco em **Java, Spring Boot e React**
+- 🏗️ Experiência com **APIs REST**, integração de serviços e persistência de dados
+- 🎓 Engenharia da Computação (FAECTS) · Pós-graduação em Engenharia de Software (Anhanguera) · Análise de Sistemas (FATEC-SP)
+- 👨‍🏫 Instrutor Técnico de Formação Profissional na Prefeitura das Estâncias Turísticas de Itu
+- 🌱 Sempre explorando novos paradigmas de arquitetura e boas práticas de código
 
 ---
 
-### 🌡️ EMS — Monitoramento de Temperatura
+### 🛠️ Stack e Ferramentas
 
-**Java | Spring Boot | Microsserviços | REST**
+**Backend**
 
-Sistema de monitoramento de temperatura desenvolvido com **arquitetura de microsserviços e APIs REST**.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
-🔗 [Ver projeto](https://github.com/Gustavo-Bento/ems-temperature-monitoring)
+**Frontend**
 
----
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### ☕ Java Spring — DIO
+**Banco de Dados**
 
-**Java | Spring Boot | Spring Data | Spring Security | REST**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-Projeto prático de desenvolvimento de **APIs REST**, explorando persistência de dados e segurança com Spring.
+**Arquitetura & Práticas**
 
-🔗 [Ver projeto](https://github.com/Gustavo-Bento/dio-trilha-java-spring)
+`Clean Architecture` · `DDD` · `Microservices` · `SOLID` · `Clean Code` · `Design Patterns`
 
----
+**Ferramentas**
 
-## 🧠 Conceitos que estudo e aplico
-
-- Programação Orientada a Objetos
-- SOLID e Clean Code
-- Design Patterns
-- RESTful APIs
-- Clean Architecture
-- Domain-Driven Design
-- Microsserviços
-- Persistência de dados
-- Testes automatizados
-- Segurança de APIs
-- Integração de serviços
-- Inteligência Artificial aplicada ao desenvolvimento
-
----
-
-## 📚 Atualmente estudando
-
-- ☕ Java e Spring Boot
-- ⚛️ React
-- 🤖 Spring AI
-- 🏗️ Arquitetura de Software
-- 🧩 Microsserviços
-- 🐳 Docker
-- 🧪 Testes automatizados
-- 🔐 Spring Security
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ---
 
-## 👨‍💻 Sobre mim
+### 📌 Projetos em destaque
 
-Além do desenvolvimento de software, atuo como **Professor de Ensino Médio Técnico**, ministrando conteúdos relacionados a programação, desenvolvimento web, banco de dados, algoritmos e engenharia de software.
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **[Budgeting](https://github.com/Gustavo-Bento)** | API de gestão financeira com integração de IA, persistência de dados e arquitetura em camadas. | Java · Spring Boot · Spring AI · JPA · MySQL · Docker · Gradle |
+| **[EMS - Monitoramento de Temperatura](https://github.com/Gustavo-Bento)** | Sistema de monitoramento de temperatura com arquitetura de microsserviços e APIs REST. | Java · Spring Boot · Microsserviços · REST |
+| **[Java Spring Rest](https://github.com/Gustavo-Bento)** | Projeto prático de APIs REST, com persistência de dados e segurança utilizando Spring. | Java · Spring Boot · Spring Data · Spring Security · REST |
 
-A experiência como professor fortalece minha capacidade de **resolver problemas, compreender conceitos de software e comunicar soluções técnicas**.
-
----
-
-## 📫 Vamos conversar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gfmb/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gustavo-Bento)
+> 💡 Atualize os links acima para apontar direto para os repositórios reais de cada projeto.
 
 ---
 
-⭐ Se algum projeto for útil para você, fique à vontade para deixar uma estrela!
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Bento&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Bento&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Bento&hide_border=true" />
+</p>
+
+---
+
+### 📫 Contato
+
+- 📧 gfmb94@gmail.com
+- 💼 [linkedin.com/in/gfmb](https://www.linkedin.com/in/gfmb/)
+- 📍 Itu, SP - Brasil
