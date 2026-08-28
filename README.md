@@ -43,6 +43,9 @@ Hello, my name is **Gustavo Bento** and i'm a developer in progress. Well, I hav
             <a href="https://spring.io/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/>
             </a>
+            <a href="https://quarkus.io/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/quarkusio/quarkusio-icon.svg" alt="quarkus" width="30" height="30"/>
+            </a>
             </p>
         </td>  
     </tr>
